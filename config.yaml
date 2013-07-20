@@ -1,0 +1,2 @@
+source_directory: [Path_to_src_dir]
+vacuum_canister: [Path_to_destination_dir]
